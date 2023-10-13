@@ -3,9 +3,11 @@
 
 - 🔭 I’m currently working on [Prodigy-InfoTech](https://github.com/Prodigy-InfoTech/Web-Development-Projects/issues/47)
 
-- 🌱 I’m currently learning **React, Nextjs**
+- 👨‍💻 Contributer @[Prodigy-Infotech](https://github.com/Prodigy-InfoTech/Web-Development-Projects/issues/47), @[Hungry-hero](https://hungry-hero-ag.netlify.app/)
 
-- 💬 Ask me about **React**
+- 🌱 I’m currently learning **[React](https://react.dev/), [Nextjs](https://nextjs.org/)**
+
+- 💬 Ask me about **[React](https://react.dev/)**
 
 - 📫 How to reach me **nik.nilanjan@gmail.com**
 
