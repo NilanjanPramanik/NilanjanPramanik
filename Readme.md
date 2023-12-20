@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nilanjan Pramanik</h1>
 <h3 align="center">A front-end developer in React</h3>
 
-- 🔭 I’m currently working on [Prodigy-InfoTech](https://github.com/Prodigy-InfoTech/Web-Development-Projects/issues/47)
-
 - 👨‍💻 Contributer @[Prodigy-Infotech](https://github.com/Prodigy-InfoTech/Web-Development-Projects/issues/47), @[Hungry-hero](https://hungry-hero-ag.netlify.app/)
 
 - 🌱 I’m currently learning **[React](https://react.dev/), [Nextjs](https://nextjs.org/)**
